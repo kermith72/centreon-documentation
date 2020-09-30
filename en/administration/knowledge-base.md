@@ -26,7 +26,7 @@ here](http://www.mediawiki.org/wiki/User_hub
 ## Configure the access to the wiki
 
 Before starting with **Knowledge Base**, you need to configure it to access the
-wiki database.
+wiki API.
 
 For this go to `Administration > Parameters > Knowledge Base` and complete
 the form
